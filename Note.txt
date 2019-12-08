@@ -1,0 +1,12 @@
+RSA Algorithm:
+
+The RSA cryptosystem is the most widely-used public key cryptography algorithm in the world. It can be used to encrypt a message 
+without the need to exchange a secret key separately.
+
+The RSA algorithm can be used for both public key encryption and digital signatures. Its security is based on the difficulty of 
+factoring large integers.
+
+Party A can send an encrypted message to party B without any prior exchange of secret keys. A just uses B's public key to encrypt the message and B decrypts it 
+using the private key, which only he knows. RSA can also be used to sign a message, so A can sign a message using their private 
+
+key and B can verify it using A's public key.
