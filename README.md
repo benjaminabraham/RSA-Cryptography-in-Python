@@ -10,3 +10,5 @@ i) The value of 'e' must be between one and Phi
 ii) The value of 'e' must be co prime with N and phi
 
 Once we get 'e', we then find the value of 'd', which is the private key for decryption for the receiver. 
+
+I am still working on this, so any ideas are welcome
